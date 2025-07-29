@@ -13,12 +13,12 @@ Interactive Parameters: Adjust distribution parameters to observe changes in sha
 
 Calculate Probabilities: Compute probabilities for specific intervals or tail regions.
 
+<br>
 
-
-**Deployed on Streamlit -**
+**Deployed on Streamlit:**
 https://probplot-cnoyzmlwgbppxjzwcrcmv7.streamlit.app/
 
+<br>
 
-
-**User Interface**
+**User Interface:**
 <img width="2808" height="970" alt="prob_plot_Picture1" src="https://github.com/user-attachments/assets/11c27d7d-1728-4b45-8cb5-bf8acaebee28" />
